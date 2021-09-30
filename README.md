@@ -27,7 +27,7 @@
     </a>
 </p> <br/>
 <p align="center">
-<a href="https://github.com/titikkoma88">
+<a href="https://github.com/alco-845">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alco-845&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alco-845&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -47,4 +47,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=alco-845">
 </a>
-<a href="https://github.com/titikkoma88?tab=followers"><img src="https://img.shields.io/github/followers/alco-845?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/alco-845?tab=followers"><img src="https://img.shields.io/github/followers/alco-845?label=Followers&style=social" alt="GitHub Badge"></a>
