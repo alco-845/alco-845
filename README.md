@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicola Yanni Alivant</h1>
-<h3 align="center">A Passionate College Student</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">I'm Nicola Yanni Alivant</h3>
 
 
 ## 🙋‍♂️ About Me
 - 👨‍🎓 I’m a Informatics Engineering student at Trunojoyo Madura University
 - 🌱 I’m currently learning responsive mobile UI / UX
 - 😄 I'm natively speak Indonesian and fluently speak english
-- 👯 Likes loking a new friends who like programming especially android programming
+- 👯 Likes looking a new friends who like programming especially android programming
 - 📫 Reach me at nicola.alivant@gmail.com
 <br/>
 
